@@ -8,121 +8,121 @@
   {
         "place": "Forum Mall",
         "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
+        "image": "images/forum.jpg",
         "description": "Our first date"
     },
   {
         "place": "Hill County",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
+        "coordinates": [17.534154369023657, 78.38101678908828],
+        "image": "images/hillcounty",
         "description": "Your House"
     },
   {
         "place": "Trick",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.46692493451538, 78.31026653751073],
+        "image": "trick",
+        "description": "Our celebration spot"
     },
   {
         "place": "Aparna Mall",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.467267334091726, 78.31008742586707],
+        "image": "images/aparnamall",
+        "description": "Our new haunt"
     },
   {
         "place": "SRMH",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.47283219339127, 78.31011333936036],
+        "image": "images/",
+        "description": "My House"
     },
   {
         "place": "Kondapochama Dam",
-        "coordinates": [17.4843575599486, 78.38956623202145],
+        "coordinates": [17.735004271073592, 78.70425986950437],
         "image": "images/colorsponge-carlos-mustang-test-5.jpg",
         "description": "Our first date"
     },
   {
         "place": "Panjagutta Mall",
         "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "image": "images/konda",
+        "description": "Our Long Drive"
     },
   {
         "place": "Salaar Jung",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.371755844811243, 78.4807240945241],
+        "image": "images/salarjung",
+        "description": "The first time we met after the break"
   },
   {
         "place": "KFC",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.49516329067719, 78.35635636311453],
+        "image": "images/kfc",
+        "description": "KFC near fiitjee"
     },
   {
-        "place": "Dominoes",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "place": "Domino's",
+        "coordinates": [17.54085472273672, 78.3679161049621],
+        "image": "images/dominoes",
+        "description": "Bachupally Domino's"
     },
   {
         "place": "Friends Badminton",
         "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "image": "images/badminton",
+        "description": "For our inner athletes"
     },
   {
         "place": "JNTU",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.49280072949292, 78.38986572696126],
+        "image": "images/JNTU",
+        "description": "Your college"
     },
   {
         "place": "GITAM",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.55005427874184, 78.16647758854184],
+        "image": "images/gitam",
+        "description": "My college"
     },
   {
         "place": "GSM Mall",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.496365220935473, 78.3356579261412],
+        "image": "images/gsm",
+        "description": "Our midway hangout"
     },
   {
         "place": "Leons",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.463555198351226, 78.30965454806072],
+        "image": "images/",
+        "description": "BOORGHIRRR"
     },
   {
         "place": "Karachi KPHB",
-        "coordinates": [17.4843575599486, 78.38956623202145],
+        "coordinates": [17.486881844697194, 78.3910178160734],
         "image": "images/colorsponge-carlos-mustang-test-5.jpg",
         "description": "Our first date"
     },
   {
         "place": "Karachi Nallagandla",
-        "coordinates": [17.4843575599486, 78.38956623202145],
+        "coordinates": [17.47151145158397, 78.30964079809158],
         "image": "images/colorsponge-carlos-mustang-test-5.jpg",
         "description": "Our first date"
     },
   {
         "place": "Hashtag Cafe",
-        "coordinates": [17.4843575599486, 78.38956623202145],
+        "coordinates": [17.48298268139494, 78.38090027134842],
         "image": "images/colorsponge-carlos-mustang-test-5.jpg",
         "description": "Our first date"
     },
   {
         "place": "Inorbit Mall",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "coordinates": [17.433852227435626, 78.38664554120896],
+        "image": "images/inorbit",
+        "description": "bowlingggg"
     },
   {
         "place": "Sarath City Mall",
-        "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
+        "coordinates": [17.45789198827816, 78.36416387189462],
+        "image": "images/sarathcity",
         "description": "Our first date"
     },
   {
