@@ -1,24 +1,22 @@
-// Initialize the map (centered on Hyderabad)
-var map = L.map('map').setView([17.3850, 78.4867], 12);
+document.addEventListener("DOMContentLoaded", function () {
+    let map = L.map("map").setView([17.5, 78.3], 10); // Adjusted center
 
-// Add OpenStreetMap tiles
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
-}).addTo(map);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution: "&copy; OpenStreetMap contributors",
+    }).addTo(map);
 
-// Fetch locations.json and place markers
-fetch('locations.json')
-    .then(response => response.json())
-    .then(data => {
-        data.forEach(location => {
-            var marker = L.marker(location.coordinates).addTo(map)
-                .bindPopup(`<b>${location.place}</b><br><button onclick="showMemory('${location.image}', '${location.description}')">View Memory</button>`);
-        });
-    })
-    .catch(error => console.error('Error loading locations:', error));
+    fetch("locations.json")
+        .then((response) => response.json())
+        .then((data) => {
+            data.forEach((location) => {
+                let marker = L.marker(location.coordinates).addTo(map);
 
-// Function to display the memory image and description
-function showMemory(imageSrc, description) {
-    document.getElementById("memory-image").src = imageSrc;
-    document.getElementById("memory-description").innerText = description;
-}
+                marker.on("click", function () {
+                    // Update image and description automatically
+                    document.getElementById("memoryImage").src = location.image;
+                    document.getElementById("memoryDescription").textContent = location.description;
+                });
+            });
+        })
+        .catch((error) => console.error("Error loading locations:", error));
+});
