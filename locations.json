@@ -38,14 +38,14 @@
   {
         "place": "Kondapochama Dam",
         "coordinates": [17.735004271073592, 78.70425986950437],
-        "image": "images/colorsponge-carlos-mustang-test-5.jpg",
-        "description": "Our first date"
+        "image": "images/konda.jpg",
+        "description": "Our long drive"
     },
   {
         "place": "Panjagutta Mall",
         "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/konda.jpg",
-        "description": "Our Long Drive"
+        "image": "images/panjagutta.jpg",
+        "description": "Our first outing"
     },
   {
         "place": "Salaar Jung",
@@ -74,19 +74,19 @@
   {
         "place": "JNTU",
         "coordinates": [17.49280072949292, 78.38986572696126],
-        "image": "images/JNTU",
+        "image": "images/JNTU.jpg",
         "description": "Your college"
     },
   {
         "place": "GITAM",
         "coordinates": [17.55005427874184, 78.16647758854184],
-        "image": "images/gitam",
+        "image": "images/gitam.jpg",
         "description": "My college"
     },
   {
         "place": "GSM Mall",
         "coordinates": [17.496365220935473, 78.3356579261412],
-        "image": "images/gsm",
+        "image": "images/gsm.jpg",
         "description": "Our midway hangout"
     },
   {
@@ -98,55 +98,55 @@
   {
         "place": "Karachi KPHB",
         "coordinates": [17.486881844697194, 78.3910178160734],
-        "image": "images/karachikphb",
+        "image": "images/karachikphb.jpg",
         "description": "Our first cafe"
     },
   {
         "place": "Karachi Nallagandla",
         "coordinates": [17.47151145158397, 78.30964079809158],
-        "image": "images/karachin",
+        "image": "images/karachin.jpg",
         "description": "Our sudden date"
     },
   {
         "place": "Hashtag Cafe",
         "coordinates": [17.48298268139494, 78.38090027134842],
-        "image": "images/hashtag",
+        "image": "images/hashtag.jpg",
         "description": "Our first anniversary"
     },
   {
         "place": "Inorbit Mall",
         "coordinates": [17.433852227435626, 78.38664554120896],
-        "image": "images/inorbit",
+        "image": "images/inorbit.jpg",
         "description": "bowlingggg"
     },
   {
         "place": "Sarath City Mall",
         "coordinates": [17.45789198827816, 78.36416387189462],
-        "image": "images/sarathcity",
+        "image": "images/sarathcity.jpg",
         "description": "another day another mall"
     },
   {
         "place": "Statue of Equality",
         "coordinates": [17.185927080608334, 78.33430554620533],
-        "image": "images/statue",
+        "image": "images/statue.jpeg",
         "description": "Sanskari vibes"
     },
   {
         "place": "Biggies",
         "coordinates": [17.488591669927324, 78.3926330425128],
-        "image": "images/biggies",
+        "image": "images/biggies.jpg",
         "description": "Our OG boorghir spot"
     },
   {
         "place": "Aqua Golf",
         "coordinates": [17.412966108830577, 78.25130026821023],
-        "image": "images/aquagolf",
+        "image": "images/aquagolf.jpg",
         "description": "Bougie baddies"
     },
   {
         "place": "Nalagandla Lake",
         "coordinates": [17.472580431859626, 78.31375812073615],
-        "image": "images/nallagandlalake",
+        "image": "images/nallagandlalake.jpg",
         "description": "Our water front"
     },
   {
@@ -158,25 +158,31 @@
   {
         "place": "Baskin Robins",
         "coordinates": [17.476538695959302, 78.34390162808704],
-        "image": "images/baskin",
+        "image": "images/baskin.jpg",
         "description": "Purple babies"
     },
   {
         "place": "Polar Bear",
         "coordinates": [17.463300258160867, 78.30939234436178],
-        "image": "images/polarbear",
+        "image": "images/polarbear.jpg",
         "description": "I scream you scream we all scream for ice cream"
     },
   {
         "place": "Botanical Gardens",
         "coordinates": [17.455749905671844, 78.3611349443958],
-        "image": "images/botanical",
+        "image": "images/botanical.jpg",
         "description": "for your love of parks"
     },
   {
         "place": "Shilparamam",
         "coordinates": [17.45270603762195, 78.37899314066259],
-        "image": "images/shilparamam",
+        "image": "images/shilparamam.jpg",
         "description": "Our lil last minute plan"
+    },
+  {
+        "place": "Makau",
+        "coordinates": [17.45270603762195, 78.37899314066259],
+        "image": "images/makau.jpg",
+        "description": "Our pre 3rd anniversary outing"
     }
 ]
