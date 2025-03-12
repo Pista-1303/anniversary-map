@@ -14,19 +14,19 @@
   {
         "place": "Hill County",
         "coordinates": [17.534154369023657, 78.38101678908828],
-        "image": "images/hillcounty",
+        "image": "images/hillcounty.jpeg",
         "description": "Your House"
     },
   {
         "place": "Trick",
         "coordinates": [17.46692493451538, 78.31026653751073],
-        "image": "trick",
+        "image": "trick.jpg",
         "description": "Our celebration spot"
     },
   {
         "place": "Aparna Mall",
         "coordinates": [17.467267334091726, 78.31008742586707],
-        "image": "images/aparnamall",
+        "image": "images/aparnamall.jpg",
         "description": "Our new haunt"
     },
   {
@@ -44,31 +44,31 @@
   {
         "place": "Panjagutta Mall",
         "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/konda",
+        "image": "images/konda.jpg",
         "description": "Our Long Drive"
     },
   {
         "place": "Salaar Jung",
         "coordinates": [17.371755844811243, 78.4807240945241],
-        "image": "images/salarjung",
+        "image": "images/salarjung.png",
         "description": "The first time we met after the break"
   },
   {
         "place": "KFC",
         "coordinates": [17.49516329067719, 78.35635636311453],
-        "image": "images/kfc",
+        "image": "images/kfc.jpg",
         "description": "KFC near fiitjee"
     },
   {
         "place": "Domino's",
         "coordinates": [17.54085472273672, 78.3679161049621],
-        "image": "images/dominoes",
+        "image": "images/dominoes.jpg",
         "description": "Bachupally Domino's"
     },
   {
         "place": "Friends Badminton",
         "coordinates": [17.4843575599486, 78.38956623202145],
-        "image": "images/badminton",
+        "image": "images/badminton.jpg",
         "description": "For our inner athletes"
     },
   {
