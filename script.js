@@ -1,22 +1,22 @@
-document.addEventListener("DOMContentLoaded", function () {
-    let map = L.map("map").setView([17.5, 78.3], 10); // Adjusted center
+// Initialize the map
+const map = L.map('map').setView([17.484, 78.389], 12);
 
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        attribution: "&copy; OpenStreetMap contributors",
-    }).addTo(map);
+// Load and display tile layer on the map
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
 
-    fetch("locations.json")
-        .then((response) => response.json())
-        .then((data) => {
-            data.forEach((location) => {
-                let marker = L.marker(location.coordinates).addTo(map);
-
-                marker.on("click", function () {
-                    // Update image and description automatically
-                    document.getElementById("memoryImage").src = location.image;
-                    document.getElementById("memoryDescription").textContent = location.description;
-                });
+// Load locations.json dynamically
+fetch("locations.json")
+    .then(response => response.json())
+    .then(markers => {
+        markers.forEach(memory => {
+            const marker = L.marker(memory.coordinates).addTo(map);
+            marker.on("click", () => {
+                document.getElementById("memoryTitle").innerText = memory.place; // Update place name
+                document.getElementById("memoryImage").src = memory.image;
+                document.getElementById("memoryDescription").innerText = memory.description;
             });
-        })
-        .catch((error) => console.error("Error loading locations:", error));
-});
+        });
+    })
+    .catch(error => console.error("Error loading locations:", error));
