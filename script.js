@@ -13,7 +13,7 @@ fetch("locations.json")
         markers.forEach(memory => {
             const marker = L.marker(memory.coordinates).addTo(map);
             marker.on("click", () => {
-                document.getElementById("memoryTitle").innerText = memory.place; // Update place name
+                document.getElementById("memoryTitle").innerText = memory.place; // ✅ Fix: Update place name
                 document.getElementById("memoryImage").src = memory.image;
                 document.getElementById("memoryDescription").innerText = memory.description;
             });
